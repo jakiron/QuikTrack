@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">QuikTrack</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">1504358839858948</string>
+    <string name="string_accessiblity_capturedImage">captured image of item</string>
+
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_add_tag">AddTagActivity</string>
+
+    <string name="string_button_addTag">Add tag</string>
+    <string name="string_button_addItem">Add item</string>
+
+    <string name="string_button_writeToTag">Save tag</string>
+    <string name="string_button_scanTag">Scan tag</string>
+    <string name="string_togglebutton_on">Scanning</string>
+    <string name="string_togglebutton_off">Scan</string>
+
+    <string name="title_activity_add_item">AddItemActivity</string>
+    <string name="string_edittext_itemName">Enter item name</string>
+    <string name="string_button_camera">Take picture</string>
+    <string name="string_button_saveItem">Save item</string>
+    <string name="string_error_itemSaveTitle">Error</string>
+    <string name="string_error_itemSaveMessage">All fields required</string>
+    <string name="string_error_itemSavePositiveButton">Ok</string>
+
+    <string name="string_button_checkItem">Check item</string>
+    <string name="title_activity_check_item">CheckItemActivity</string>
+    <string name="string_accessibility_itemCheckStatus">Item check status image</string>
+
+</resources>

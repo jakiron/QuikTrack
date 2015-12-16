@@ -1,0 +1,39 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    tools:context="com.quiktrack.quiktrack.MenuActivity"
+    android:padding="@dimen/abc_action_bar_content_inset_material">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/string_button_addTag"
+            android:textSize="20dp"
+            android:textAlignment="gravity"
+            android:gravity="center"
+            android:id="@+id/buttonAddTag" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/string_button_addItem"
+            android:textSize="20dp"
+            android:textAlignment="gravity"
+            android:gravity="center"
+            android:id="@+id/buttonAddItem" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/string_button_checkItem"
+            android:textSize="20dp"
+            android:textAlignment="gravity"
+            android:gravity="center"
+            android:id="@+id/buttonCheckItem" />
+
+</LinearLayout>
