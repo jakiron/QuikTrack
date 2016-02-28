@@ -14,3 +14,11 @@ QuikTrack offers the following novelties:
 - Easy to use
 - Supports tracking of multiple items at the same time
 - Grouping of tracked items
+
+## Features implemented
+| Features | Description |
+| --- | --- |
+| Item Tracking | <ul><li>Create a NFC Tag</li><li>Create an item (link with NFC tag)</li><li>Check a list of items</li><li>Scan the items added</li> |
+| Data storage | Implemented local data storage |
+| Add/Edit user profile | User can create a user profile |
+| Social media | Integration with facebook login |
